@@ -1,0 +1,27 @@
+.local-jumbo {
+    background-color: #884224;
+    color: white;
+}
+
+.blueheader {
+    background-color: #337AB7;
+    color: white;
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.boxborder {
+    border: solid 2px;
+    border-color: #337AB7;
+    margin-bottom: 20px;
+}
+
+.insideform {
+    margin: 15px;
+}
+
+.localbutton {
+    background-color: #337AB7;
+    color: white;
+}
